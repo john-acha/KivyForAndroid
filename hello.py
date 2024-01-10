@@ -1,6 +1,6 @@
 # File name: hello.py
 import kivy
-kivy.require('2.2.1')
+kivy.require('2.3.0')
 
 from kivy.app import App
 from kivy.uix.button import Label
